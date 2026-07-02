@@ -2,7 +2,7 @@
 
 <h1>Draszcz Jordan</h1>
 
-------------COMPÉTENCES-------------------
+<!------------COMPÉTENCES------------------->
 <h2> My Skills According to websites :</h2>
 <hr>
 <h3>OpenClassrooms</h3>
@@ -19,7 +19,7 @@
 
 <hr>
 
-------------GRAPHIQUES--------------------------
+<!------------GRAPHIQUES-------------------------->
 
 
 <p align="center">
