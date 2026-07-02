@@ -2,6 +2,26 @@
 
 <h1>Draszcz Jordan</h1>
 
+------------COMPÉTENCES-------------------
+<h2> My Skills According to websites :</h2>
+<hr>
+<h3>OpenClassrooms</h3>
+  <ul>
+    <li>✅ : Apprenez à programmer avec Javascript</li>
+    <li>✅ : Créer une maquette web avec Figma</li>
+    <li>✅ : Créer votre site web avec HTML 5 et CSS 3</li>
+    <li>✅ : Apprenez à programmer avec Javascript</li>
+  </ul>
+<h3>Codecademy</h3>
+  <ul>
+    <li>✅ : Apprenez à programmer avec Javascript</li>
+  </ul>
+
+<hr>
+
+------------GRAPHIQUES--------------------------
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDraszcz&theme=tokyonight"/>
 </p>
