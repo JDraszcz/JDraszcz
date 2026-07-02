@@ -14,7 +14,7 @@
   </ul>
 <h3>Codecademy</h3>
   <ul>
-    <li>✅ : Apprenez à programmer avec Javascript</li>
+    <li>✅ : Introduction à SQL</li>
   </ul>
 
 <hr>
