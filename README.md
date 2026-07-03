@@ -15,6 +15,7 @@
 <h3>Codecademy</h3>
   <ul>
     <li>✅ : Introduction à SQL</li>
+    <li>✅ : Learn Java</li>
   </ul>
 
 <hr>
