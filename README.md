@@ -16,6 +16,7 @@
   <ul>
     <li>✅ : Introduction à SQL</li>
     <li>✅ : Learn Java</li>
+    <li>✅ : Learn SQL</li>
   </ul>
 
 <hr>
