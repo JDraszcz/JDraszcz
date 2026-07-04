@@ -18,7 +18,7 @@
     <li>✅ : Learn Java</li>
     <li>✅ : Learn SQL</li>
   </ul>
-
+<!-- Possibilté de réorganiser -->
 <hr>
 
 <!------------GRAPHIQUES-------------------------->
